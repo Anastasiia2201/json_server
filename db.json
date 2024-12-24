@@ -1,14 +1,7 @@
 {
   "orders": [
     { "id": 1, "name": "Петя", "address": "Москва", "date": "22.11.24", "products":[1,2,3] },
-     { "id": 2, "name": "Коля", "address": "Уфа", "date": "23.10.24", "products":[5,9] },
-        { "id": 3, "name": "Света", "address": "Сыктывкар", "date": "20.9.24", "products":[4,6,7] },
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    { "id": 2, "name": "Коля", "address": "Уфа", "date": "23.10.24", "products":[5,9] },
+    { "id": 3, "name": "Света", "address": "Сыктывкар", "date": "20.9.24", "products":[4,6,7] },
+  ]
 }
